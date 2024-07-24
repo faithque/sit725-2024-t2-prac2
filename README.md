@@ -34,7 +34,6 @@ The server will start running on `http://localhost:3000`.
 
 1. Adding two numbers:
 GET http://localhost:3000/add/5/3
-Copy
 2. Using the calculator API:
 POST http://localhost:3000/calculate
 Content-Type: application/json
@@ -43,7 +42,7 @@ Content-Type: application/json
 "num1": 4,
 "num2": 7
 }
-Copy
+
 ## License
 
 This project is licensed under the MIT License.
