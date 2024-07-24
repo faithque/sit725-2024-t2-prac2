@@ -10,7 +10,7 @@ This project is a simple Express.js web server that provides basic calculator fu
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/sit725-2024-t2-prac2.git
+git clone https://github.com/faithque/sit725-2024-t2-prac2.git
 2. Navigate to the project directory:
 cd sit725-2024-t2-prac2
 3. Install the dependencies:
@@ -20,7 +20,6 @@ npm install
 
 To start the server, run:
 npm start
-Copy
 The server will start running on `http://localhost:3000`.
 
 ## Usage
