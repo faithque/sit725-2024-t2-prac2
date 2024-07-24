@@ -11,10 +11,8 @@ This project is a simple Express.js web server that provides basic calculator fu
 
 1. Clone the repository:
 git clone https://github.com/your-username/sit725-2024-t2-prac2.git
-Copy
 2. Navigate to the project directory:
 cd sit725-2024-t2-prac2
-Copy
 3. Install the dependencies:
 npm install
 
