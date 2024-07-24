@@ -25,23 +25,3 @@ The server will start running on `http://localhost:3000`.
 ## Usage
 
 - Open a web browser and go to `http://localhost:3000` to use the calculator interface.
-- You can also use the API directly:
-  - GET `/add/:num1/:num2` to add two numbers
-  - POST `/calculate` with a JSON body to perform more complex calculations
-
-### API Examples
-
-1. Adding two numbers:
-GET http://localhost:3000/add/5/3
-2. Using the calculator API:
-POST http://localhost:3000/calculate
-Content-Type: application/json
-{
-"operation": "multiply",
-"num1": 4,
-"num2": 7
-}
-
-## License
-
-This project is licensed under the MIT License.
